@@ -1,0 +1,15 @@
+conda create -n cod_1 python=3.6
+pip install torch==1.10.0
+pip install torchaudio==0.10.0
+pip install torchvision==0.10.0
+pip install tqdm==4.64.1
+pip install PyYAML==6.0
+pip install imageio==2.15.0
+pip install scipy==1.5.4
+pip install opencv-python==4.3.0.38
+pip install mmcv==1.7.0
+pip install matplotlib==3.3.4pip 
+pip install mmcv==2.0.0
+pip install bytecode==0.13.0
+pip install scikit-learn
+pip install tensorboard==2.6
